@@ -1,10 +1,10 @@
-#world=/home/tml/.local/share/Terraria/tModLoader/Worlds/Test.wld
+#world=/home/tml/.local/share/Terraria/tModLoader/Worlds/Run_1.wld
 
 maxplayer=8
 
 motd=Someone need to carry the boat!
 
-port=42069
+port=5432
 upnp=0
 password=eric
 secure=1
