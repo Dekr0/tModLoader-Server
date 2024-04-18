@@ -1,0 +1,13 @@
+#world=/home/tml/.local/share/Terraria/tModLoader/Worlds/Test.wld
+
+maxplayer=8
+
+motd=Someone need to carry the boat!
+
+port=42069
+upnp=0
+password=eric
+secure=1
+
+priority=1
+npcstream=2
